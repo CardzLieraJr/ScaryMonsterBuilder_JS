@@ -56,11 +56,7 @@ ScaryMonsterBuilder_JS/
 
 ## 📸 Preview
 
-Add a screenshot or GIF of your project here.
-
-Example:
-
-![Certificate](screenshots/monster.png)
+![Example](screenshot/monster.png)
 
 ## 💡 Future Improvements
 
